@@ -1,0 +1,33 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "excalidraw-font": "text",
+    "날짜": "datetime",
+    "종류": "text",
+    "하위 항목": "multitext",
+    "상위 항목": "multitext",
+    "excalidraw-plugin": "text",
+    "excalidraw-export-transparent": "checkbox",
+    "excalidraw-mask": "checkbox",
+    "excalidraw-export-dark": "checkbox",
+    "excalidraw-export-padding": "number",
+    "excalidraw-export-pngscale": "number",
+    "excalidraw-link-prefix": "text",
+    "excalidraw-url-prefix": "text",
+    "excalidraw-link-brackets": "checkbox",
+    "excalidraw-onload-script": "text",
+    "excalidraw-linkbutton-opacity": "number",
+    "excalidraw-default-mode": "text",
+    "excalidraw-font-color": "text",
+    "excalidraw-border-color": "text",
+    "excalidraw-css": "text",
+    "excalidraw-autoexport": "text",
+    "excalidraw-iframe-theme": "text",
+    "excalidraw-open-md": "checkbox",
+    "작성일시": "datetime",
+    "createdAt": "date",
+    "주행거리": "number"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showLineNumber": false,
+  "mobileToolbarCommands": [
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-link",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:undo",
+    "editor:redo",
+    "editor:attach-file",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:configure-toolbar"
+  ],
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "userIgnoreFilters": [
+    "Context/",
+    "setting/"
+  ],
+  "rightToLeft": false,
+  "useTab": false,
+  "newFileFolderPath": ""
+}

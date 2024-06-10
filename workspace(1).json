@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "04021d70e40d98fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecd4330c03185a91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "377e0000e7a94b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관심사/메모/2024-06-07 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51bcb1b44a019945",
+    "type": "split",
+    "children": [
+      {
+        "id": "be0a2185be139210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d26775bf4d7afc36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "259d0f2c163c12ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:프로젝트/지에스아이코  ",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb563dde57d3da83",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "fabae8dd90d9bd2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7b949b5e3666900",
+        "type": "tabs",
+        "dimension": 49.519230769230774,
+        "children": [
+          {
+            "id": "78b3ac5500912baa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "관심사/메모/2024-06-07 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22b2ee66153291c3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4303cee29c884594",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "6422d64bda192206",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbbf371fba4325af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "관심사/메모/2024-06-07 1.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "856ad33707e10c83",
+        "type": "tabs",
+        "dimension": 50.480769230769226,
+        "children": [
+          {
+            "id": "ff67c342ce075e45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "관심사/메모/2024-06-07 1.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71203ed9666c90d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b1a118ac555d05c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로젝트/지에스아이코/지에스아이코.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": true,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": true,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": true
+    }
+  },
+  "active": "377e0000e7a94b22",
+  "lastOpenFiles": [
+    "관심사/메모/2024-06-07.md",
+    "관심사/메모/2024-06-07 1.md",
+    "관리/자동차/정비/차량 정비 (LPG).md",
+    "프로젝트/지에스아이코/KFTC/프로젝트/지에스아이코/KFTC/20240606233306472",
+    "프로젝트/지에스아이코/KFTC/프로젝트/지에스아이코/KFTC/20240606233306394",
+    "프로젝트/지에스아이코/KFTC/프로젝트/지에스아이코/KFTC/20240606233306331",
+    "프로젝트/지에스아이코/KFTC/프로젝트/지에스아이코/KFTC/20240606233306190",
+    "프로젝트/지에스아이코/KFTC/프로젝트/지에스아이코/KFTC/20240606233306122",
+    "프로젝트/지에스아이코/KFTC/프로젝트/지에스아이코/KFTC/20240606233306057",
+    "프로젝트/지에스아이코/KFTC/프로젝트/지에스아이코/KFTC/20240606233305945",
+    "프로젝트/지에스아이코/KFTC/프로젝트/지에스아이코/KFTC",
+    "프로젝트/지에스아이코/KFTC/프로젝트/지에스아이코",
+    "프로젝트/지에스아이코/KFTC/프로젝트",
+    "관리/사람/아버님/건강/통풍 관리법/통풍.md",
+    "관리/사람/아버님/건강/통풍 관리법/비타민 C 복용법.md",
+    "관리/사람/아버님/아버님.md",
+    "관리/사람/아버님/아버님 생일.md",
+    "관리/사람/어머님/건강/2023 어머니 건강검진/병원/초음파 검진이 가능한 원주 병원 리스트.md",
+    "관리/사람/어머님/건강/2023 어머니 건강검진/병원/건강 검진 잘 해주는 서울 병원 리스트.md",
+    "관리/사람/어머님/건강/2023 어머니 건강검진/병원/KMI 전국센터.md",
+    "관리/사람/어머님/건강/2023 어머니 건강검진/어머니 건강검진.md",
+    "관리/사람/어머님/건강/2023 어머니 건강검진/Pasted image 20231010101330.png",
+    "관리/사람/어머님/건강/2023 어머니 건강검진/Pasted image 20231010101321.png",
+    "관리/사람/어머님/건강/2023 어머니 건강검진/2023-10-19.md",
+    "관리/사람/어머님/건강/2023 어머니 건강검진/Pasted image 20231010101249.png",
+    "관리/사람/어머님/건강/2023 어머니 건강검진/2023-10-11.md",
+    "관리/사람/어머님/건강/2023 어머니 건강검진/2023-09-05.md",
+    "관리/사람/어머님/어머님 생일.md",
+    "관리/사람/어머님/어머님.md",
+    "관리/사람/경호/경호.md",
+    "관리/사람/경호/경호 생일.md",
+    "관리/사람/지현이/건강/2023-10/피부약.md",
+    "관리/사람/지현이/집 관리/원주 인터넷 설치.md",
+    "관리/사람/지현이/먹기로 한 것들/미아사거리 원조할매곱창.md",
+    "관리/사람/지현이/먹기로 한 것들/만두국.md",
+    "관리/사람/지현이/먹기로 한 것들/계란 토마토 요리.md",
+    "관리/사람/지현이/지현이.md",
+    "관리/사람/지현이/좋아하는 음식.md",
+    "관리/사람/지현이/약속.md",
+    "관리/사람/규연이/고정 지출/인터넷 요금/2023 인터넷 신청/IMG_1676.png",
+    "프로젝트/지에스아이코/KFTC/Pasted image 20240513104313.png",
+    "관리/어머님/건강/2023 어머니 건강검진/Pasted image 20231010101249.png",
+    "관리/어머님/건강/2023 어머니 건강검진/Pasted image 20231010101330.png",
+    "관심사/메모/Pasted image 20240513105002.png",
+    "관심사/메모/Pasted image 20240513104951.png",
+    "관심사/메모/Pasted image 20240513104843.png",
+    "관심사/정보와 사고력 늘리기/정보 처리 순서도.canvas",
+    "도서관/개발/완료된 프로젝트/샵팬픽/내부/크리에이터 콘텐츠 리스트 구성.canvas",
+    "도서관/개발/완료된 프로젝트/샵팬픽/DEV-593 관리자는 관리자 페이지 메인 페이지 상품 콘텐츠 리스트에 필터, 태그, 컴포넌트 옵션을 설정할 수 있다/모달 구조 3.canvas",
+    "도서관/개발/완료된 프로젝트/샵팬픽/DEV-593 관리자는 관리자 페이지 메인 페이지 상품 콘텐츠 리스트에 필터, 태그, 컴포넌트 옵션을 설정할 수 있다/모달 구조 2.canvas",
+    "관심사/정보와 사고력 늘리기/세계관.canvas",
+    "관심사/개발 지식 채우기/IT.canvas",
+    "관심사/정보 분류/0. 정의 (define)/IT.canvas",
+    "개요/세계관.canvas",
+    "정보 분류/정보 처리 순서도.canvas",
+    "무제 파일 1.canvas"
+  ]
+}

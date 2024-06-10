@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "ProtocolBlue",
+  "enabledCssSnippets": [
+    "color-extend"
+  ],
+  "baseFontSize": 20,
+  "textFontFamily": "Pretendard,Apple SD Gothic Neo",
+  "monospaceFontFamily": "Pretendard,Apple SD Gothic Neo",
+  "interfaceFontFamily": "Pretendard,Apple SD Gothic Neo",
+  "translucency": true,
+  "theme": "obsidian"
+}

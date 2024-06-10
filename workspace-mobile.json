@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "6169912308af1567",
+    "type": "split",
+    "children": [
+      {
+        "id": "7318fe951f651e08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fde0dfb2b0ef9460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4effa1f987793851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "관심사/메모/2024-05-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7169aa22c76f1a2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ae37be2132517fe4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "3056c4c8a8e9cfcb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "현대",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8602f0311a2147a2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "fbfb8b16cf7b59ff",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "0caea4c912eab43d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ca550fa5669ad9b8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "14ce96eb895ae002",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "관심사/메모/2024-05-28.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "eea83494327a57b1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "관심사/메모/2024-05-28.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b63c4c4b0f97ef65",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "관심사/메모/2024-05-28.md"
+          }
+        }
+      },
+      {
+        "id": "385cdbe18e2da491",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "09c50e2c5515fa75",
+        "type": "leaf",
+        "state": {
+          "type": "oz-calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "4effa1f987793851",
+  "lastOpenFiles": [
+    "무제 파일.md",
+    "관심사/메모/2024-06-04.md",
+    "2024-03-26.md",
+    "setting/obsidian/template/기본.md",
+    "setting/obsidian/template/리뷰.md",
+    "setting/obsidian/template/정의.md",
+    "setting/excalidraw/template.excalidraw.md",
+    "setting/excalidraw/Sketch.excalidraw.md",
+    "setting/excalidraw/script/Set Font Family.md.md",
+    "Pasted image 20240211194019.png",
+    "Pasted image 20240110191520.png",
+    "Pasted image 20240110191509.png",
+    "관심사/메모/2024-05-28.md",
+    "관심사/메모/2024-05-31.md",
+    "관리/아버님/아버님 생일.md",
+    "관리/어머님/어머님 생일.md",
+    "관리/경호/경호 생일.md",
+    "관심사/메모/2024-05-08.md",
+    "관심사/메모/2024-05-07.md",
+    "관심사/메모/2024-05-13.md",
+    "관심사/메모/2024-05-16.md",
+    "관심사/메모/2024-05-17.md",
+    "관심사/메모/2024-05-25.md",
+    "관리/자동차/2024-05-27.md",
+    "관리/자동차",
+    "관심사/메모/2024-04-19.md",
+    "관심사/메모/2024-04-18.md",
+    "관심사/메모/2024-04-16.md",
+    "관심사/메모/2024-04-15.md",
+    "관심사/메모/2024-04-12.md",
+    "setting/font/Pretendard-SemiBold.otf",
+    "setting/font/Pretendard-Light.otf",
+    "setting/font/Pretendard-Medium.otf",
+    "setting/font/Pretendard-Thin.otf",
+    "setting/font/Pretendard-Bold.otf",
+    "setting/font/Pretendard-ExtraLight.otf",
+    "setting/font/Pretendard-Black.otf",
+    "setting/font/Pretendard-ExtraBold.otf",
+    "setting/font/Pretendard-Regular.otf",
+    "관심사/정보와 사고력 늘리기/정보 처리 순서도.canvas",
+    "도서관/개발/완료된 프로젝트/샵팬픽/내부/커뮤니티/회의/2023-11-08/Pasted image 20231108110522.png",
+    "도서관/개발/완료된 프로젝트/샵팬픽/내부/커뮤니티/회의/2023-11-08/Pasted image 20231108101349.png",
+    "도서관/개발/완료된 프로젝트/샵팬픽/내부/크리에이터 콘텐츠 리스트 구성.canvas",
+    "도서관/인터넷 사업 계획하기/상품 선택/Pasted image 20231017174722.png",
+    "도서관/인터넷 사업 계획하기/제도/Pasted image 20231017170949.png",
+    "도서관/인터넷 사업 계획하기/제도/Pasted image 20231105190451.png",
+    "프로젝트/인터넷 사업 계획하기/상품 선택/Pasted image 20231017174722.png",
+    "프로젝트/샵팬픽/내부/커뮤니티/회의/2023-11-08/Pasted image 20231108110522.png",
+    "관심사/정보와 사고력 늘리기/세계관.canvas",
+    "관심사/개발 지식 채우기/IT.canvas",
+    "프로젝트/여행/무제 파일.canvas",
+    "도서관/개발/완료된 프로젝트/샵팬픽/DEV-593 관리자는 관리자 페이지 메인 페이지 상품 콘텐츠 리스트에 필터, 태그, 컴포넌트 옵/모달 구조 3.canvas",
+    "도서관/개발/완료된 프로젝트/샵팬픽/DEV-593 관리자는 관리자 페이지 메인 페이지 상품 콘텐츠 리스트에 필터, 태그, 컴포넌트 옵/모달 구조 2.canvas",
+    "도서관/개발/완료된 프로젝트/샵팬픽/DEV-593 관리자는 관리자 페이지 메인 페이지 상품 콘텐츠 리스트에 필터, 태그, 컴포넌트 옵/관리자 페이지 상품 조회 모달 설계.canvas",
+    "프로젝트/샵팬픽/내부/샵팬픽 관리자 페이지/DEV-593 관리자는 관리자 페이지 메인 페이지 상품 콘텐츠 리스트에 필터, 태그, 컴포넌트 옵/무제 파일.canvas",
+    "무제 파일 1.canvas"
+  ]
+}
