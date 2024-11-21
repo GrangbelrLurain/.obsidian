@@ -33,5 +33,7 @@
   ],
   "rightToLeft": false,
   "useTab": false,
-  "newFileFolderPath": ""
+  "newFileFolderPath": "",
+  "showInlineTitle": false,
+  "showRibbon": true
 }

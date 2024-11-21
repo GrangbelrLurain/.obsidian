@@ -1,13 +1,13 @@
 {
   "attachPath": {
-    "attachmentRoot": "",
-    "saveAttE": "obsFolder",
+    "attachmentRoot": "/images",
+    "saveAttE": "inFolderBelow",
     "attachmentPath": "${notepath}/${date}",
     "attachFormat": "IMG-${date}",
     "type": "GLOBAL"
   },
   "dateFormat": "YYYYMMDDHHmmssSSS",
-  "excludeExtensionPattern": "",
+  "excludeExtensionPattern": "WebP",
   "autoRenameAttachment": true,
   "excludedPaths": "",
   "excludePathsArray": [],

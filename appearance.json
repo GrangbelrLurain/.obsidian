@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "ProtocolBlue",
+  "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "color-extend"
   ],
@@ -9,5 +9,6 @@
   "monospaceFontFamily": "Pretendard,Apple SD Gothic Neo",
   "interfaceFontFamily": "Pretendard,Apple SD Gothic Neo",
   "translucency": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "showViewHeader": false
 }
