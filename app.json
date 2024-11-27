@@ -36,5 +36,7 @@
   "newFileFolderPath": "",
   "showInlineTitle": false,
   "showRibbon": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "defaultViewMode": "preview",
+  "livePreview": false
 }

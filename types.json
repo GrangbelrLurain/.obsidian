@@ -28,6 +28,8 @@
     "excalidraw-open-md": "checkbox",
     "작성일시": "datetime",
     "createdAt": "date",
-    "주행거리": "number"
+    "주행거리": "number",
+    "excalidraw-export-embed-scene": "checkbox",
+    "excalidraw-embeddable-theme": "text"
   }
 }
