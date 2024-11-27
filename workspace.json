@@ -4,179 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "60736897e68a00d4",
+        "id": "9f363982901396a9",
         "type": "tabs",
         "children": [
           {
-            "id": "8d3cc86d405d111a",
+            "id": "b0992a102c657f4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idea/241018 클릭인포.md",
-                "mode": "source",
+                "file": "idea/241121 모두투어 홈페이지.md",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241018 클릭인포"
-            }
-          },
-          {
-            "id": "63b21ad9ad9c8360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/240715 차량 정비.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "240715 차량 정비"
-            }
-          },
-          {
-            "id": "758036fb8132f65d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/241108 와이리즘.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241108 와이리즘"
-            }
-          },
-          {
-            "id": "cdd19a683d666f73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/241105 보드에프엔씨.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241105 보드에프엔씨"
-            }
-          },
-          {
-            "id": "64353d36ceaf051f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/241108 와이리즘.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241108 와이리즘"
-            }
-          },
-          {
-            "id": "407bfe1cde2e3110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/241108 와이리즘.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241108 와이리즘"
-            }
-          },
-          {
-            "id": "3a03db569d64602e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/241108 위시드보험중개.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241108 위시드보험중개"
-            }
-          },
-          {
-            "id": "f7cfb943111b1ecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/241108 와이리즘.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241108 와이리즘"
-            }
-          },
-          {
-            "id": "a7317fff727b65ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/241108 위시드보험중개.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241108 위시드보험중개"
-            }
-          },
-          {
-            "id": "8321aa50e5057651",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/241108 와이리즘.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241108 와이리즘"
-            }
-          },
-          {
-            "id": "72a227d5bb5ac3ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/241108 와이리즘.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241108 와이리즘"
-            }
-          },
-          {
-            "id": "7b478c2b422a6d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/241108 위시드보험중개.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241108 위시드보험중개"
+              "title": "241121 모두투어 홈페이지"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +54,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -230,55 +76,10 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "08837c564f7d54df",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "78b3ac5500912baa",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "idea/241108 위시드보험중개.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "241108 위시드보험중개의 백링크"
-            }
-          }
-        ]
-      },
-      {
-        "id": "02c24de95f139f7d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff67c342ce075e45",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "idea/241108 위시드보험중개.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "241108 위시드보험중개의 나가는 링크"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 342.5
   },
   "right": {
     "id": "fabae8dd90d9bd2e",
@@ -287,7 +88,7 @@
       {
         "id": "a7b949b5e3666900",
         "type": "tabs",
-        "dimension": 49.519230769230774,
+        "dimension": 39.29597701149425,
         "children": [
           {
             "id": "22b2ee66153291c3",
@@ -297,16 +98,6 @@
               "state": {},
               "icon": "spreadsheet",
               "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "4303cee29c884594",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
             }
           },
           {
@@ -325,38 +116,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idea/241018 클릭인포.md"
+                "file": "idea/241121 모두투어 홈페이지.md"
               },
               "icon": "lucide-list",
-              "title": "241018 클릭인포 개요"
+              "title": "241121 모두투어 홈페이지 개요"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "856ad33707e10c83",
+        "id": "e1189375eb1daa17",
         "type": "tabs",
-        "dimension": 50.480769230769226,
+        "dimension": 60.70402298850575,
         "children": [
           {
-            "id": "71203ed9666c90d1",
+            "id": "4303cee29c884594",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": false
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -370,34 +158,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b478c2b422a6d81",
+  "active": "b0992a102c657f4d",
   "lastOpenFiles": [
-    "idea/241108 와이리즘.md",
-    "idea/241108 위시드보험중개.md",
-    "idea/241105 보드에프엔씨.md",
-    "idea/241010 취업.md",
+    "idea/241121 모두투어 Routes.md",
+    "idea/241121 모두투어 홈페이지.md",
+    "idea/241121 와이리즘.md",
     "idea/hello world.md",
-    "idea/240715 차량 정비.md",
-    "idea/241018 클릭인포.md",
-    "idea/241018 스냅컴퍼니.md",
-    "idea/241025 오잉.md",
-    "idea/241021 법무법인 yk.md",
-    "idea/241011 원클.md",
-    "idea/241018 크로스비.md",
-    "idea/241020 보드게임.md",
     "idea/241018 완료된 프로젝트.md",
-    "idea/241001 시련은 없어도 실패는 없다 독서평.md",
-    "idea/241010 빅스.md",
-    "idea/240930 포트폴리오 사이트.md",
-    "idea/240927 행사 관리 앱.md",
     "idea/240927 행사 관리 앱기능 리스트.md",
+    "idea/240927 행사 관리 앱.md",
+    "idea/240930협업.md",
+    "idea/241127 디자인 협업 툴.md",
+    "idea/241127 피그마.md",
+    "idea/240930 개발 지식 정리.md",
+    "idea/241126 프론트엔드 개발에 고려해야 하는 것들.md",
     "idea/240927 프로필 앱.md",
-    "관심사/프로필 프로젝트.md",
-    "idea/240927 프로필 앱 기능 리스트.md",
+    "DailyNote/2024-04-09 1.md",
+    "idea/241009 수료식.md",
+    "관심사/공부 체크리스트.md",
+    "관심사/인사이트 채우기/체크리스트.md",
+    "관심사/사고 싶은 물품.md",
+    "DailyNote/2024-04-05 1.md",
+    "idea/240610 약속.md",
     "idea/241010 숙제.md",
-    "도서관/개발/보류/통합 방송 관리 플랫폼 만들기/통합 방송 관리 플랫폼 만들기.md",
-    "도서관/개발/공부/이미지 서버 최적화.md",
-    "관심사/231205 수익화 전략.md",
+    "idea/241011 원클.md",
+    "프로젝트/지에스아이코/2024-06-04.md",
+    "프로젝트/지에스아이코/240319 회의.md",
+    "프로젝트/지에스아이코/240401 회의록.md",
+    "프로젝트/지에스아이코/2024-05-16.md",
     "images/idea/20241010002338380/IMG-20241010002338380.webp",
     "images/idea/20241010002338380",
     "images/idea",

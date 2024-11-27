@@ -24,5 +24,7 @@
   "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-peach",
   "anuppuccin-theme-settings@@anp-h4-color-custom": "anp-h4-maroon",
   "anuppuccin-theme-settings@@anp-h5-color-custom": "anp-h5-pink",
-  "anuppuccin-theme-settings@@anp-h6-color-custom": "anp-h6-rosewater"
+  "anuppuccin-theme-settings@@anp-h6-color-custom": "anp-h6-rosewater",
+  "anuppuccin-theme-settings@@anp-code-bg-color@@dark": "#2A312D",
+  "anuppuccin-theme-settings@@anp-decoration-toggle": false
 }

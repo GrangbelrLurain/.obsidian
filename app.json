@@ -35,5 +35,6 @@
   "useTab": false,
   "newFileFolderPath": "",
   "showInlineTitle": false,
-  "showRibbon": true
+  "showRibbon": true,
+  "readableLineLength": false
 }
