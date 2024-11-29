@@ -1,7 +1,7 @@
 {
   "tabSize": 2,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "attachmentFolderPath": "./",
   "showLineNumber": false,
   "mobileToolbarCommands": [
@@ -25,7 +25,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 70
   },
   "userIgnoreFilters": [
     "Context/",
@@ -33,10 +33,11 @@
   ],
   "rightToLeft": false,
   "useTab": false,
-  "newFileFolderPath": "",
+  "newFileFolderPath": "idea",
   "showInlineTitle": false,
   "showRibbon": true,
   "readableLineLength": false,
   "defaultViewMode": "preview",
-  "livePreview": false
+  "livePreview": false,
+  "propertiesInDocument": "visible"
 }

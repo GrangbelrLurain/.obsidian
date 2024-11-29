@@ -1,5 +1,6 @@
 {
   "autorun": false,
-  "folder": "관심사/메모",
-  "template": "setting/obsidian/template/기본"
+  "folder": "idea",
+  "template": "",
+  "format": ""
 }

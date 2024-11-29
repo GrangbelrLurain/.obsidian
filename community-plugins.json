@@ -3,15 +3,15 @@
   "obsidian-checklist-plugin",
   "cmdr",
   "dataview",
-  "excalibrain",
   "obsidian-excalidraw-plugin",
   "obsidian-excel-to-markdown-table",
   "oz-image-plugin",
   "obsidian-style-settings",
-  "oz-calendar",
   "global-search-and-replace",
   "oz-clear-unused-images",
   "image-converter",
   "attachment-management",
-  "obsidian-git"
+  "obsidian-git",
+  "prettier",
+  "tag-wrangler"
 ]

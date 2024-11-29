@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "587346c61a8695f9",
+        "id": "f51da5eeb228e11b",
         "type": "tabs",
         "children": [
           {
-            "id": "e3b6ef7e8c81e32e",
+            "id": "90a22fd4b9ba2d33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idea/241121 와이리즘.md",
+                "file": "idea/hello world.md",
                 "mode": "preview",
-                "backlinks": true,
+                "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "241121 와이리즘"
+              "title": "hello world"
             }
           }
         ]
@@ -34,8 +34,20 @@
       {
         "id": "ff47a9509190906a",
         "type": "tabs",
-        "dimension": 14.814814814814813,
+        "dimension": 18.907007492287352,
         "children": [
+          {
+            "id": "d26775bf4d7afc36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
           {
             "id": "cb563dde57d3da83",
             "type": "leaf",
@@ -44,42 +56,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          }
-        ]
-      },
-      {
-        "id": "be0a2185be139210",
-        "type": "tabs",
-        "dimension": 85.18518518518519,
-        "children": [
-          {
-            "id": "d26775bf4d7afc36",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabeticalReverse"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
-            }
-          },
-          {
-            "id": "259d0f2c163c12ee",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "검색"
             }
           },
           {
@@ -91,20 +67,158 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "259d0f2c163c12ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "11a1914897510a03",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e0a203f57edba522",
+        "type": "tabs",
+        "dimension": 81.09299250771265,
+        "children": [
+          {
+            "id": "cfee3ea929be5202",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 501.5
   },
   "right": {
     "id": "fabae8dd90d9bd2e",
     "type": "split",
     "children": [
       {
-        "id": "25a3b453252be9f2",
+        "id": "a7b949b5e3666900",
         "type": "tabs",
+        "dimension": 29.669540229885055,
+        "children": [
+          {
+            "id": "95f6600683265b66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "idea/hello world.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "hello world의 백링크"
+            }
+          },
+          {
+            "id": "0b7cfdb29f64c6e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "idea/hello world.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "hello world의 나가는 링크"
+            }
+          },
+          {
+            "id": "b5eceef4ae470220",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "idea/hello world.md"
+              },
+              "icon": "lucide-list",
+              "title": "hello world 개요"
+            }
+          },
+          {
+            "id": "b57d488cd0c42069",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "idea/hello world.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.9,
+                  "nodeSizeMultiplier": 0.4828125,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792592,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "hello world 그래프"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e28b424c36611aee",
+        "type": "tabs",
+        "dimension": 70.33045977011494,
         "children": [
           {
             "id": "8fd7219e3198def2",
@@ -115,115 +229,83 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
-          },
-          {
-            "id": "6e8b594fc840f004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "idea/hello world.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "hello world"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a7b949b5e3666900",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6422d64bda192206",
-            "type": "leaf",
-            "state": {
-              "type": "oz-calendar",
-              "state": {},
-              "icon": "OZCAL_ICON",
-              "title": "OZ Calendar"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3b6ef7e8c81e32e",
+  "active": "90a22fd4b9ba2d33",
   "lastOpenFiles": [
-    "idea/241122_[30562]호텔_약관 확인요청.md",
-    "idea/241121 와이리즘.md",
+    "idea/개발 지식 정리.md",
+    "idea/컨퍼런스 일정들.md",
     "idea/hello world.md",
-    "도서관/개발/완료된 프로젝트/샵팬픽/찜앤장/ssh.md",
-    "idea/파이프 라인과 자동화 시스템.md",
-    "idea/240930 개발 지식 정리.md",
-    "idea/공부 체크리스트.md",
-    "idea/로드맵.md",
-    "idea/개발자 로드맵.md",
-    "도서관/개발/완료된 프로젝트/샵팬픽/찜앤장/SEO 오류 해결.md",
-    "도서관/개발/완료된 프로젝트/샵팬픽/찜앤장/찜앤장.md",
-    "도서관/개발/완료된 프로젝트/샵팬픽/찜앤장/리눅스 명령어 모음.md",
-    "도서관/개발/완료된 프로젝트/샵팬픽/찜앤장/가비아에서 node.js 사용하기.md",
-    "도서관/개발/완료된 프로젝트/샵팬픽/찜앤장/2023-09-11_google-photo_200147.jpg",
-    "idea/SEO 실 사용 예시.md",
-    "도서관/개발/완료된 프로젝트/샵팬픽/내부/샵팬픽 홈페이지.md",
-    "도서관/개발/완료된 프로젝트/샵팬픽/내부/크리에이터 콘텐츠 리스트 구성.canvas",
-    "idea/웹 사이트 SEO를 위해 필요한 것.md",
-    "idea/schema.org.md",
-    "idea/구글 SEO.md",
-    "idea/네이버 서치 어드바이저,네이버 검색 등록 방법.md",
-    "idea/metatag.md",
-    "idea/네이버 SEO.md",
-    "도서관/개발/완료된 프로젝트/샵팬픽/내부/SEO/네이버 구글 노출/구글.md",
-    "도서관/개발/완료된 프로젝트/샵팬픽/내부/SEO/네이버 구글 노출/아임 웹 설명.md",
-    "idea/next-seo.md",
-    "idea/RSS 사이트맵.md",
-    "idea/241127 수입의 확대.md",
-    "images/idea/20241127144427394",
+    "idea/obsidian 연구.md",
+    "idea/옵시디언 스타일.md",
+    "idea/단축키 사용.md",
+    "idea/완료된 프로젝트.md",
+    "idea/와이리즘.md",
+    "idea/[30562]호텔_약관 확인요청.md",
+    "idea/[00000]_검색 결과 필터 제작 쿼리 변경].md",
+    "idea/my-page - my-review.md",
+    "idea/NGINX.md",
+    "idea/UX 리서치.md",
+    "idea/디자인 협업 툴.md",
+    "idea/샵팬픽 커뮤니티 프로젝트 회의.md",
+    "idea/서울.md",
+    "idea/DEV-595 배너 관리.md",
+    "idea/피그마.md",
+    "idea/결혼 계획.md",
+    "idea/노트 작성법.md",
+    "idea/샵팬픽 외주.md",
+    "idea/샵팬픽 커뮤니티 초기 회의.md",
+    "idea/수입의 확대.md",
+    "idea/시스템이 성장하면서 겪는 문제들.md",
+    "idea/좋아하는 음식.md",
+    "idea/오픈소스답게 소프트웨어 설계하기.md",
+    "idea/모달 구조 2.canvas",
+    "idea/크리에이터 콘텐츠 리스트 구성.canvas",
+    "images/idea/20241129162345333",
+    "무제 파일.canvas",
+    "utils/formater.js",
+    "utils",
+    "images/idea/#D-2024/11",
+    "images/idea/#D-2024",
+    "images/idea/20241129162345333/IMG-20241129162345381.webp",
+    "idea/formater.js",
+    "idea/comfile.js",
+    "setting/templater",
+    "images/idea/20241129094438180",
+    "images/idea/20241129094414078",
+    "images/idea/20241129094414078/IMG-20241129094414078.webp",
+    "images/idea/20241129082111210/IMG-20241129082111210.webp",
+    "idea/모달 구조 3.canvas",
+    "images/idea/20241127162842568/IMG-20241127162842686.jpg",
     "images/Pasted image 20231017170949.png",
-    "images/idea/20241127144415534",
-    "images/idea/20241127142350962",
-    "images/idea/20241127142350678",
     "images/idea/20241127142350678/IMG-20241127142350886.png",
     "images/idea/20241127142350962/IMG-20241127142351371.png",
     "images/idea/20241127142350962/IMG-20241127142351322.png",
     "images/idea/20241127142350962/IMG-20241127142351270.png",
     "images/idea/20241127142350962/IMG-20241127142351159.png",
-    "images/도서관/개발/완료된 프로젝트/샵팬픽/내부/커뮤니티/회의/2023-11-08/20241127141321898",
-    "images/도서관/개발/완료된 프로젝트/샵팬픽/내부/커뮤니티/회의/2023-11-08/20241127141311628",
-    "images/도서관/개발/완료된 프로젝트/샵팬픽/내부/커뮤니티/회의/2023-11-08",
-    "images/도서관/개발/완료된 프로젝트/샵팬픽/내부/커뮤니티/회의",
-    "images/도서관/개발/완료된 프로젝트/샵팬픽/내부/커뮤니티",
-    "images/도서관/개발/완료된 프로젝트/샵팬픽/내부",
     "관심사/정보와 사고력 늘리기/세계관.canvas",
     "관심사/정보와 사고력 늘리기/정보 처리 순서도.canvas",
-    "images/도서관/개발/완료된 프로젝트/샵팬픽/내부/커뮤니티/회의/2023-11-08/20241127141321898/IMG-20241127141321909.png",
-    "images/도서관/개발/완료된 프로젝트/샵팬픽/내부/커뮤니티/회의/2023-11-08/20241127141321898/IMG-20241127141321954.png",
-    "도서관/개발/완료된 프로젝트/샵팬픽/DEV-593 관리자는 관리자 페이지 메인 페이지 상품 콘텐츠 리스트에 필터, 태그, 컴포넌트 옵션을 설정할 수 있다/모달 구조 2.canvas",
-    "도서관/개발/완료된 프로젝트/샵팬픽/DEV-593 관리자는 관리자 페이지 메인 페이지 상품 콘텐츠 리스트에 필터, 태그, 컴포넌트 옵션을 설정할 수 있다/모달 구조 3.canvas",
-    "images/idea/20241010002338380/IMG-20241010002338380.webp",
     "관심사/개발 지식 채우기/IT.canvas",
     "프로젝트/이사/집.canvas",
     "관심사/메모/로봇팔.canvas",
-    "관심사/정보 분류/0. 정의 (define)/IT.canvas",
-    "개요/세계관.canvas"
+    "관심사/정보 분류/0. 정의 (define)/IT.canvas"
   ]
 }
