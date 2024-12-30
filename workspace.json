@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "71c8bdd6aa172413",
+        "id": "8d8923774b08a9af",
         "type": "tabs",
         "children": [
           {
-            "id": "328c1066d7b9bae5",
+            "id": "743e40282f7d13ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idea/[00000] 예약 내역 - 항공 API Endpoint Object 중 항공에서 사용하고 있는 프로퍼티 확인.md",
+                "file": "idea/Feedly.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "[00000] 예약 내역 - 항공 API Endpoint Object 중 항공에서 사용하고 있는 프로퍼티 확인"
+              "title": "Feedly"
             }
           }
         ]
@@ -34,7 +34,7 @@
       {
         "id": "ff47a9509190906a",
         "type": "tabs",
-        "dimension": 18.907007492287352,
+        "dimension": 36.12139156180607,
         "children": [
           {
             "id": "d26775bf4d7afc36",
@@ -64,8 +64,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#D-2022",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,41 +86,42 @@
             }
           },
           {
-            "id": "11a1914897510a03",
+            "id": "d0b32881edc179e0",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "tagfolder-view",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "e0a203f57edba522",
+        "id": "a30cbcb93ce7a20f",
         "type": "tabs",
-        "dimension": 81.09299250771265,
+        "dimension": 63.878608438193936,
         "children": [
           {
-            "id": "cfee3ea929be5202",
+            "id": "cc98aa7c11388005",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "tagfolder-view-list",
               "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "tags": [
+                  "D-2024/"
+                ],
+                "title": "D-2024/"
               },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              "icon": "stacked-levels",
+              "title": "Files with D-2024/"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 501.5
+    "width": 499.5
   },
   "right": {
     "id": "fabae8dd90d9bd2e",
@@ -170,10 +171,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "idea/[00000] 예약 내역 - 항공 API Endpoint Object 중 항공에서 사용하고 있는 프로퍼티 확인.md"
+                "file": "idea/프론트엔드 개발에 고려해야 하는 것들.md"
               },
               "icon": "lucide-list",
-              "title": "[00000] 예약 내역 - 항공 API Endpoint Object 중 항공에서 사용하고 있는 프로퍼티 확인 개요"
+              "title": "프론트엔드 개발에 고려해야 하는 것들 개요"
             }
           },
           {
@@ -182,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "idea/[00000] 예약 내역 - 항공 API Endpoint Object 중 항공에서 사용하고 있는 프로퍼티 확인.md",
+                "file": "idea/Feedly.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -201,16 +202,16 @@
                   "nodeSizeMultiplier": 1.06979166666667,
                   "lineSizeMultiplier": 1.42708333333333,
                   "collapse-forces": false,
-                  "centerStrength": 0.864583333333333,
-                  "repelStrength": 9.375,
-                  "linkStrength": 0.885416666666667,
-                  "linkDistance": 162,
-                  "scale": 0.7132754626224431,
+                  "centerStrength": 0.546218487394958,
+                  "repelStrength": 15.6302521008403,
+                  "linkStrength": 0.966386554621849,
+                  "linkDistance": 172,
+                  "scale": 0.5087618855792618,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "[00000] 예약 내역 - 항공 API Endpoint Object 중 항공에서 사용하고 있는 프로퍼티 확인 그래프"
+              "title": "Feedly 그래프"
             }
           },
           {
@@ -236,9 +237,22 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "4c7c10183e38f43f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "e28b424c36611aee",
@@ -259,7 +273,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 450.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,63 +289,62 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f125cbf3152924b0",
+  "active": "743e40282f7d13ae",
   "lastOpenFiles": [
-    "images/idea/20241203112331553",
-    "images/idea/20241203112331553/IMG-20241203112331553.webp",
+    "idea/[DAN 24] LLM의 Re-Ranking Ability 검색에 이식하기 2편 - LLM을 활용한 최신성 반영.md",
+    "idea/Feedly.md",
+    "components/input.js",
+    "components/liist.js",
     "idea/[00000] 예약 내역 - 항공 API Endpoint Object 중 항공에서 사용하고 있는 프로퍼티 확인.md",
-    "images/idea/20241203095549888",
-    "images/idea/20241203095549888/IMG-20241203095549888.webp",
-    "idea/와이리즘.md",
-    "idea/프론트엔드 개발에 고려해야 하는 것들.md",
-    "idea/데이터 검증과 모킹 두 마리 토끼를 동시에 잡기.md",
-    "idea/Data Transformer와 타입 안정성 확보.md",
-    "idea/개발 지식 정리.md",
-    "idea/어머님 생일.md",
-    "idea/프롬프트 엔지니어링.md",
-    "idea/hello world.md",
+    "idea/[31559] endpoint 작업 지원.md",
+    "idea/[30562]호텔_약관 확인요청.md",
+    "idea/[31424] 항공 공동운항 및 다구간 3구간 예약 확인.md",
     "idea/[00000]_검색 결과 필터 제작 쿼리 변경].md",
-    "idea/241122 차량 정비.md",
-    "idea/차량.md",
-    "idea/240715 차량 정비.md",
-    "idea/240527 차량 정비.md",
-    "idea/240709 차량 정비.md",
-    "idea/운전면허 따기.md",
-    "idea/차량 정비 (LPG).md",
-    "idea/사람.md",
-    "idea/글 작성.md",
-    "idea/metatag.md",
-    "idea/2023-10-19 어머님 검사 결과.md",
-    "idea/어머님 건강검진.md",
-    "idea/어머님 건강검진 결과지.md",
-    "idea/네이버 SEO.md",
-    "idea/비타민 C 복용법.md",
+    "idea/hello world.md",
+    "idea/와이리즘.md",
+    "components/utility-content.js",
+    "idea/개발 지식 정리.md",
+    "components/action.js",
+    "components/modal.js",
+    "components/button.js",
+    "components/form.js",
+    "components/buttons/ButtonMd.js",
+    "components/fomrs/FormFeedly.js",
+    "components/modals/ModalCenter.js",
+    "테스트 파일.md",
+    "idea/helllo.md",
+    "components/index.js.md",
+    "idea/백엔드 개발에 고려해야 하는 것들.md",
+    "pininfo.md",
+    "idea/집.md",
+    "idea/시스템이 성장하면서 겪는 문제들.md",
+    "idea/컨퍼런스 일정들.md",
+    "idea/개발자 (developer).md",
+    "idea/로드맵.md",
+    "idea/AI 모델 활용 방법.md",
+    "idea/개발자 로드맵.md",
+    "idea/공부 체크리스트.md",
+    "idea/라자냐 레시피.md",
+    "idea/[31498] 닷컴 상품 검색결과 필터 변경 요청.md",
+    "images/idea/20241213081606191/IMG-20241213081606191.webp",
+    "images/idea/20241213081543166/IMG-20241213081543166.webp",
+    "idea/무제 파일.canvas",
+    "images/idea/20241205140224987/IMG-20241205140224987.webp",
+    "images/idea/20241205140055566/IMG-20241205140055566.webp",
+    "images/idea/20241205133833454/IMG-20241205133833454.webp",
+    "images/idea/20241205133725926/IMG-20241205133725927.webp",
+    "images/idea/20241205133632680/IMG-20241205133632680.webp",
+    "images/idea/20241205125052641/IMG-20241205125052641.webp",
+    "images/idea/20241205125039244/IMG-20241205125039244.webp",
+    "images/idea/20241205125022935/IMG-20241205125022935.webp",
     "idea/모달 구조 2.canvas",
     "idea/크리에이터 콘텐츠 리스트 구성.canvas",
-    "images/idea/20241129162345333",
     "무제 파일.canvas",
-    "utils/formater.js",
-    "utils",
-    "images/idea/#D-2024/11",
-    "images/idea/#D-2024",
-    "images/idea/20241129162345333/IMG-20241129162345381.webp",
-    "idea/formater.js",
-    "idea/comfile.js",
-    "setting/templater",
-    "images/idea/20241129094438180",
-    "images/idea/20241129094414078/IMG-20241129094414078.webp",
-    "images/idea/20241129082111210/IMG-20241129082111210.webp",
     "idea/모달 구조 3.canvas",
-    "images/idea/20241127162842568/IMG-20241127162842686.jpg",
-    "images/Pasted image 20231017170949.png",
-    "images/idea/20241127142350678/IMG-20241127142350886.png",
-    "images/idea/20241127142350962/IMG-20241127142351371.png",
-    "images/idea/20241127142350962/IMG-20241127142351322.png",
     "관심사/정보와 사고력 늘리기/세계관.canvas",
     "관심사/정보와 사고력 늘리기/정보 처리 순서도.canvas",
     "관심사/개발 지식 채우기/IT.canvas",
     "프로젝트/이사/집.canvas",
-    "관심사/메모/로봇팔.canvas",
-    "관심사/정보 분류/0. 정의 (define)/IT.canvas"
+    "관심사/메모/로봇팔.canvas"
   ]
 }
