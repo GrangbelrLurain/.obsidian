@@ -10,5 +10,6 @@
   "interfaceFontFamily": "Pretendard,Apple SD Gothic Neo",
   "translucency": true,
   "theme": "obsidian",
-  "showViewHeader": false
+  "showViewHeader": false,
+  "showRibbon": true
 }

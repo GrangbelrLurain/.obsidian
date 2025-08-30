@@ -1,7 +1,4 @@
 [
-  "table-editor-obsidian",
-  "obsidian-checklist-plugin",
-  "cmdr",
   "dataview",
   "obsidian-excalidraw-plugin",
   "obsidian-excel-to-markdown-table",
@@ -13,6 +10,5 @@
   "attachment-management",
   "obsidian-git",
   "prettier",
-  "obsidian-tagfolder",
-  "emera"
+  "obsidian-tagfolder"
 ]
