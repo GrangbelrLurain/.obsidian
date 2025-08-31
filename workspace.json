@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "becffed1e7732230",
+        "id": "54b3e2d6ae812597",
         "type": "tabs",
         "children": [
           {
-            "id": "4d91328741db28ad",
+            "id": "e4dce50346b054ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "idea/네이버 SEO.md",
+                "file": "idea/전단지 제작.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "네이버 SEO"
+              "title": "전단지 제작"
             }
           }
         ]
@@ -34,7 +34,7 @@
       {
         "id": "ff47a9509190906a",
         "type": "tabs",
-        "dimension": 36.12139156180607,
+        "dimension": 61.91860465116279,
         "children": [
           {
             "id": "d26775bf4d7afc36",
@@ -70,13 +70,23 @@
             }
           },
           {
-            "id": "259d0f2c163c12ee",
+            "id": "eb9643b88e1a626f",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "15bb245def67aeac",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#D-2024/06/10",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,45 +95,35 @@
               "icon": "lucide-search",
               "title": "검색"
             }
-          },
-          {
-            "id": "d0b32881edc179e0",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
-            }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "a30cbcb93ce7a20f",
+        "id": "09a908fbfba0000d",
         "type": "tabs",
-        "dimension": 63.878608438193936,
+        "dimension": 38.08139534883721,
         "children": [
           {
-            "id": "cc98aa7c11388005",
+            "id": "b8b44b6aa52b5f4a",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view-list",
               "state": {
                 "tags": [
-                  "develop/"
+                  "TDD"
                 ],
-                "title": "develop/"
+                "title": "TDD"
               },
               "icon": "stacked-levels",
-              "title": "Files with develop/"
+              "title": "Files with TDD"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 499.5
+    "width": 325.5
   },
   "right": {
     "id": "fabae8dd90d9bd2e",
@@ -254,54 +254,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templates:템플릿 삽입": false,
       "switcher:빠른 전환기 열기": false,
       "bases:새 베이스 생성하기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "oz-clear-unused-images:Clear Unused Images": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cc98aa7c11388005",
+  "active": "b8b44b6aa52b5f4a",
   "lastOpenFiles": [
-    "idea/-마케팅 교육.md",
-    "idea/초음파 검진이 가능한 원주 병원 리스트.md",
-    "idea/네이버 SEO.md",
-    "idea/화장실.md",
-    "idea/무제.base",
-    "idea/Test Double.md",
-    "idea/취업.md",
-    "idea/커뮤니티 구조.excalidraw.md",
-    "idea/쿠버네티스가 스프링 부트 3.0 네이티브 이미지를 만났네.md",
+    "idea/단양 제천 여행.md",
+    "idea/서울.md",
+    "idea/여행.md",
+    "idea/오사카 여행.md",
+    "idea/일본 긴잔 온천.md",
+    "idea/해외 여행 꿀팁.md",
     "idea/쿠팡 특(돈버는 하마 영상).md",
-    "idea/크래시리포트.md",
-    "idea/클릭인포.md",
-    "idea/크로스비.md",
-    "idea/인터넷 사업.md",
-    "idea/협업을 위해 정리해야 하는 것.md",
-    "idea/협업.md",
-    "idea/핸드폰 요금.md",
-    "idea/행사 관리 앱기능 리스트.md",
-    "idea/화면 구성을 위한 올바른 컴포넌트 패턴.md",
-    "idea/회의.md",
-    "idea/회사 디자인 파트 진행.md",
-    "idea/회의록.md",
-    "idea/[00000] 예약 내역 - 항공 API Endpoint Object 중 항공에서 사용하고 있는 프로퍼티 확인.md",
-    "idea/태그 정리하기.md",
-    "idea/턱 운동하기.md",
-    "idea/2023-10-11 이전 이력서.md",
+    "idea/2024-04-07.md",
+    "idea/제조업이란.md",
+    "idea/2023-11-14.md",
+    "idea/OEM 생산.md",
+    "idea/네이버 서치 어드바이저,네이버 검색 등록 방법.md",
+    "idea/다이어트 식품.md",
+    "idea/도매사 리스트.md",
+    "idea/아이템 위너.md",
+    "idea/와디즈.md",
+    "idea/의류 판매.md",
+    "idea/전단지 제작.md",
+    "idea/제조업 등록.md",
+    "idea/통합 방송 관리 플랫폼 만들기.md",
+    "idea/프로필 프로젝트.md",
+    "idea/플랫폼 리스트.md",
+    "idea/필라테스 프로젝트.md",
+    "idea/어머님 건강검진.md",
+    "idea/KMI 전국센터.md",
+    "idea/피부약.md",
+    "images/IMG-20240930113805059.png",
     "idea/무제 1.base",
-    "components/input.js",
-    "components/liist.js",
-    "components/utility-content.js",
-    "components/action.js",
-    "components/modal.js",
-    "components/button.js",
-    "components/form.js",
-    "components/buttons/ButtonMd.js",
+    "setting/font/SUIT/SUIT-Variable.ttf",
+    "setting/font/SUIT",
+    "setting/font/새 폴더",
+    "setting/font/Pretendard/Pretendard-SemiBold.otf",
+    "setting/font/Pretendard/Pretendard-Regular.otf",
+    "setting/font/Pretendard/Pretendard-Medium.otf",
+    "setting/font/Pretendard/Pretendard-Light.otf",
+    "setting/font/Pretendard/Pretendard-ExtraLight.otf",
+    "setting/font/Pretendard/Pretendard-ExtraBold.otf",
+    "무제.canvas",
+    "무제 1.canvas",
     "images/idea/20241213081606191/IMG-20241213081606191.webp",
     "images/idea/20241213081543166/IMG-20241213081543166.webp",
     "idea/무제 파일.canvas",
@@ -312,15 +316,12 @@
     "images/idea/20241205133632680/IMG-20241205133632680.webp",
     "images/idea/20241205125052641/IMG-20241205125052641.webp",
     "images/idea/20241205125039244/IMG-20241205125039244.webp",
-    "images/idea/20241205125022935/IMG-20241205125022935.webp",
     "idea/모달 구조 2.canvas",
     "idea/크리에이터 콘텐츠 리스트 구성.canvas",
     "무제 파일.canvas",
     "idea/모달 구조 3.canvas",
     "관심사/정보와 사고력 늘리기/세계관.canvas",
     "관심사/정보와 사고력 늘리기/정보 처리 순서도.canvas",
-    "관심사/개발 지식 채우기/IT.canvas",
-    "프로젝트/이사/집.canvas",
-    "관심사/메모/로봇팔.canvas"
+    "관심사/개발 지식 채우기/IT.canvas"
   ]
 }

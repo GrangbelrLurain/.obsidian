@@ -38,7 +38,8 @@
       "key": ""
     }
   },
-  "linkShowOnlyFDR": true,
+  "linkShowOnlyFDR": false,
   "linkCombineOtherTree": true,
-  "showListIn": ""
+  "showListIn": "",
+  "displayFolderAsTag": false
 }
